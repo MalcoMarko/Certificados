@@ -11,7 +11,8 @@
 <br>
 </div>
 <div class="datos_sec3">
-    Dirección Regional de Educación de Ancash<br>2017 © Todos los derechos reservados<br><span>Desarrollado por: <a href="http://www.esatsystem.hol.es" title="Esat System" target="_blank">Rashta Vidal Miguel A.</a></span>
+    Dirección Regional de Educación de Ancash<br>Aula Peru TIC 2018 © Todos los derechos reservados<br><span>Desarrollado por:
+        <a href="#" title="PSY CONGROO!!" target="_blank">Minaya Pumaricra Malco M.</a></span>
 </div>
 </div>
 </div>
