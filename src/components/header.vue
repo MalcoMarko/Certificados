@@ -2,8 +2,8 @@
 <div class="container-fluid consul_head">
 <div class="row central">
 <div class="col-md-3 cab1">
-    <img src="http://www.dreancash.gob.pe/Imagenes/Minedu.png" class="img1"/>
-    <img src="http://www.dreancash.gob.pe/Imagenes/drea.png" class="img2"/>
+    <img src="http://sitaav.org/img/drea.jpg" class="img1"/>
+    <img src="http://sitaav.org/img/dgp.jpg" class="img2"/>
     <br>Dirección Regional de Educación Ancash
 </div>
 <div class="col-md-6 cab2">
