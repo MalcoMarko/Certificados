@@ -9,7 +9,7 @@
 <div class="col-md-6 cab2">
     <span class="text1"><i class="far fa-file-alt"></i> Sistema De Certificación Digitalizada </span>
     <br>
-    <span class="text2">Busqueda de Certificados</span>
+    <span class="text2">Búsqueda de Certificados</span>
 </div>
 <div class="col-md-3 cab3">
 <img src="https://www.dropbox.com/s/fifvz9bd3i0rcsb/logo-sitaav.png?raw=1" alt="#" class="img-fluid">

@@ -7,10 +7,10 @@
         </div>
       </div>
       <div class="row my-4">
-        <div class="col-md-4 mb-2">
+        <div class="col-md-3 mb-2">
           <div class="card border-0 text-left">
             <div class="card-body bg-dre">
-              <h6><b><i class="fas fa-search"></i> BUSQUEDA</b></h6>
+              <h6><b><i class="fas fa-search"></i> BÚSQUEDA</b></h6>
                 <hr>
                 <form @submit.prevent="buscarCertificadoPorDni">
                   <div class="form-group">
@@ -32,7 +32,7 @@
             </div>
           </div>
         </div>
-        <div  class="col-md-8 mb-2">
+        <div  class="col-md-9 mb-2">
           <router-view></router-view>
         </div>
       </div>

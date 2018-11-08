@@ -7,7 +7,7 @@
     <span>Horario de Atención: Lunes a Viernes de 8:00 am a 05:00 pm</span>
     </div>
 <div class="datos_sec2">
-    <img src="http://www.dreancash.gob.pe/Imagenes/logo.png"/>
+    <img src="https://www.dropbox.com/s/mgt0qkjr9qeq66f/245px-Escudo_nacional_del_Per%C3%BA.svg.png?dl=0&raw=1" width="40px" />
 <br>
 </div>
 <div class="datos_sec3">
