@@ -59,7 +59,7 @@ export default {
     Pie: Pie
   },
   created: function () {
-    console.log(process.env)
+    //console.log(process.env)
   },
   data () {
     return {
@@ -77,13 +77,13 @@ export default {
         this.resultados = response.data.user.data
         if (response.data.user.total === 0) {
           console.log('no hay')
-          this.toastr.info('No se encontraron resultados')
+          toastr.info('No se encontraron resultados')
         }
         this.buscando = false
       }).catch(error => {
         this.buscando = false
-        // console.log(error)
-        this.toastr.info('error')
+        console.log(error)
+        //toastr.info('error')
       })
     },
     limpiar: function () {
