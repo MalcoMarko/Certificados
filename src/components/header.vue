@@ -3,8 +3,12 @@
 <div class="row central">
 <div class="col-md-3 cab1">
     <img src="https://sitaav.org/img/drea.jpg" class="img1"/>
+    <br>
+    <p class="h6">Dirección Regional de Educación Ancash</p>
     <img src="https://sitaav.org/img/dgp.jpg" class="img2"/>
-    <br>Dirección Regional de Educación Ancash
+
+    <img src="https://scontent.flim5-2.fna.fbcdn.net/v/t1.15752-9/51032891_2149331695123263_1054469506878930944_n.png?_nc_cat=101&_nc_pt=1&_nc_ht=scontent.flim5-2.fna&oh=28e172bcc026bea356a12232fbf24360&oe=5CB78296" class="img2"/>
+
 </div>
 <div class="col-md-6 cab2">
     <span class="text1"><i class="far fa-file-alt"></i> Sistema De Certificación Digitalizada </span>

@@ -14,10 +14,10 @@
               <th>Curso</th>
               <th>Descarga</th>
             </tr>
-            <tr v-for="(certificado,index) in resultados.data" :key="index">
-              <td><img :src="certificado.matricula.curso.certificados.imagen" alt="img certificado" style="height:80px;"></td>
-              <td>{{certificado.matricula.curso.nombre}} </td>
-              <td><a :href="certificado.pdf" target="_blank"> <i class="fas fa-file-download"></i> Descargar</a></td>
+            <tr v-for="(c,index) in resultados.data" :key="index">
+              <td><img :src="c.certificado.imagen" alt="img certificado" style="height:80px;"></td>
+              <td>{{c.certificado.cursoname}} </td>
+              <td><a :href="c.pdf" target="_blank"> <i class="fas fa-file-download"></i> Descargar</a></td>
             </tr>
           </table>
 

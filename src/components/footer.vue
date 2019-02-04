@@ -11,8 +11,7 @@
 <br>
 </div>
 <div class="datos_sec3">
-    Dirección Regional de Educación de Ancash<br>Aula Peru TIC 2018 © Todos los derechos reservados<br><span>Desarrollado por:
-        <a href="#" title="PSY CONGROO!!" target="_blank">Minaya Pumaricra Malco M.</a></span>
+    Dirección Regional de Educación de Ancash<br>Aula Peru TIC 2018 © Todos los derechos reservados
 </div>
 </div>
 </div>
